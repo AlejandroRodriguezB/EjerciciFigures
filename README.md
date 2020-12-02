@@ -1,2 +1,3 @@
 # EjerciciFigures
-Ejercicio uni de Figuras para practicar herencia 
+Ejercicio para practicar herencia
+by AlejandroRodriguezB
